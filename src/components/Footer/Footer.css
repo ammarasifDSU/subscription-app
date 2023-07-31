@@ -1,0 +1,12 @@
+.footers{
+    background-color: #222;
+    font-size: 0.8rem;
+    color: #fff;
+    position: static;
+    bottom: 0;
+    padding: 1rem;
+    margin: 0;
+    width: 100%;
+    opacity: 0.5;
+    text-align: center;
+}
