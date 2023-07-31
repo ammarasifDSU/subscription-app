@@ -90,7 +90,7 @@ const Services = () => {
       <div className="services-list">
         {services?.map((service) => (
           <div className="service-item card float" key={service._id}>
-            <img className="image-item" alt="img"/>
+            <img className="image-item" alt="Image"/>
             <div className="service-content">
               <h2>{service.name}</h2>
               <p>{service.description}</p>
